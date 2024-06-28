@@ -99,7 +99,7 @@ def calculate_distance (node1, node2):
 
 
 
-#Graph set-up
+#Graph set-up. Reading nests
 G_list=[]
 all_names=[]
 l=0
@@ -142,9 +142,101 @@ while l<len(files) and len(G_list_width)<100:
             l+=1
         else:
             l+=0
+XMID= 5.564687499999999
+YMID= 5.579222039473684
+INITIAL_NE=tuple([XMID,YMID,0])
 
 
+# In[21]:
 
+
+wed_seq = [96 - i*5 for i in range(20)]
+wed_seq.reverse()
+mon_seq = [99 - i*5 for i in range(20)]
+mon_seq.reverse()
+WED_MON_Gs=list(wed_seq+mon_seq)
+
+
+# In[23]:
+
+
+all_nest_nodes = []
+all_chamber_nodes = []
+all_initial_nes=[]
+all_junction_nodes = []
+all_end_nodes = []
+all_edges=[]
+all_nodes=[]
+for g in range(0,len(G_list)):
+#for g in range(0,len(wed_seq)):
+    G=G_list[g]
+    G2=G_list_width[g]
+    
+
+        
+    #list_ant=[]
+    attributes = nx.get_node_attributes(G, 'TYPE')
+    nest_nodes = [node for node, type_value in attributes.items() if type_value == 'NEST EN']
+    min_dist=10
+    nest_nodes2=[]
+    initial_nes=[]
+    for ne in nest_nodes:
+        x,y,z=ast.literal_eval(G.nodes[ne]['coord'])
+        
+	
+        xy=tuple([x,y,0])
+        ne2=tuple([ne,xy])
+        nest_nodes2.append(ne2)
+        dist=calculate_distance(xy,INITIAL_NE)
+        if dist<min_dist:
+            initial_ne=tuple([ne,xy])
+            min_dist=dist
+    initial_nes.append(initial_ne)
+    nest_nodes2=list(set(nest_nodes2)-set(initial_nes))
+    chamber_nodes = [node for node, type_value in attributes.items() if type_value == 'CHAM']
+    junction_nodes = [node for node, type_value in attributes.items() if type_value == 'JUNC']
+    end_nodes = [node for node, type_value in attributes.items() if type_value == 'END']
+    if len(chamber_nodes)==0:
+        chamber_nodes=np.nan
+
+
+    all_initial_nes.append(initial_nes)
+    all_nest_nodes.append(nest_nodes2)
+    all_chamber_nodes.append(chamber_nodes)
+    all_junction_nodes.append(junction_nodes)
+    all_end_nodes.append(end_nodes)
+    try:
+        node_list = chamber_nodes + initial_nes+nest_nodes+ end_nodes+ junction_nodes
+    except TypeError:
+        node_list = initial_nes+nest_nodes+ end_nodes+ junction_nodes
+
+    all_nodes.append(node_list)
+    edge_weights = []
+    for u, v, data in G.edges(data=True):
+        length = data['weight']
+        width = G2.get_edge_data(u, v)['weight']
+        if u in nest_nodes:
+            x,y,z=ast.literal_eval(G.nodes[u]['coord'])
+            xy=tuple([x,y,0])
+            u=tuple([u,xy])
+        if v in nest_nodes:
+            x,y,z=ast.literal_eval(G.nodes[v]['coord'])
+            xy=tuple([x,y,0])
+            v=tuple([v,xy])   
+        list_coords=[]
+        #This is subject to change depending on if cells or real coords are used
+        l=0
+        length_mm=round(length*10)
+        for i in range(0, length_mm):
+            list_coords.append(l)
+            l+=1
+        edge_weights.append((tuple([u, v]), length, width))
+       # print(length,width)
+    all_edges.append(edge_weights)
+    
+
+
+###### SIMULATION FUNCTIONS AND SET-UP
 #Ant class
 class Ant:
     def __init__(self, spores, caste, identity, edge, t, prev_node, next_node,identity2):
@@ -307,103 +399,6 @@ if mode=='test':
 
 
 
-XMID= 5.564687499999999
-YMID= 5.579222039473684
-INITIAL_NE=tuple([XMID,YMID,0])
-
-
-# In[21]:
-
-
-wed_seq = [96 - i*5 for i in range(20)]
-wed_seq.reverse()
-mon_seq = [99 - i*5 for i in range(20)]
-mon_seq.reverse()
-WED_MON_Gs=list(wed_seq+mon_seq)
-
-
-# In[23]:
-
-
-all_nest_nodes = []
-all_chamber_nodes = []
-all_initial_nes=[]
-all_junction_nodes = []
-all_end_nodes = []
-all_edges=[]
-all_nodes=[]
-for g in range(0,len(G_list)):
-#for g in range(0,len(wed_seq)):
-    G=G_list[g]
-    G2=G_list_width[g]
-    
-
-        
-    #list_ant=[]
-    attributes = nx.get_node_attributes(G, 'TYPE')
-    nest_nodes = [node for node, type_value in attributes.items() if type_value == 'NEST EN']
-    min_dist=10
-    nest_nodes2=[]
-    initial_nes=[]
-    for ne in nest_nodes:
-        x,y,z=ast.literal_eval(G.nodes[ne]['coord'])
-        
-	
-        xy=tuple([x,y,0])
-        ne2=tuple([ne,xy])
-        nest_nodes2.append(ne2)
-        dist=calculate_distance(xy,INITIAL_NE)
-        if dist<min_dist:
-            initial_ne=tuple([ne,xy])
-            min_dist=dist
-    initial_nes.append(initial_ne)
-    nest_nodes2=list(set(nest_nodes2)-set(initial_nes))
-    chamber_nodes = [node for node, type_value in attributes.items() if type_value == 'CHAM']
-    junction_nodes = [node for node, type_value in attributes.items() if type_value == 'JUNC']
-    end_nodes = [node for node, type_value in attributes.items() if type_value == 'END']
-    if len(chamber_nodes)==0:
-        chamber_nodes=np.nan
-
-
-#     nest_nodes = [(node, list_ant) for node in nest_nodes]
-#     chamber_nodes = [(node, list_ant) for node in chamber_nodes]
-#     junction_nodes = [(node, list_ant) for node in junction_nodes]
-#     end_nodes = [(node, list_ant) for node in end_nodes]
-
-    all_initial_nes.append(initial_nes)
-    all_nest_nodes.append(nest_nodes2)
-    all_chamber_nodes.append(chamber_nodes)
-    all_junction_nodes.append(junction_nodes)
-    all_end_nodes.append(end_nodes)
-    try:
-        node_list = chamber_nodes + initial_nes+nest_nodes+ end_nodes+ junction_nodes
-    except TypeError:
-        node_list = initial_nes+nest_nodes+ end_nodes+ junction_nodes
-
-    all_nodes.append(node_list)
-    edge_weights = []
-    for u, v, data in G.edges(data=True):
-        length = data['weight']
-        width = G2.get_edge_data(u, v)['weight']
-        if u in nest_nodes:
-            x,y,z=ast.literal_eval(G.nodes[u]['coord'])
-            xy=tuple([x,y,0])
-            u=tuple([u,xy])
-        if v in nest_nodes:
-            x,y,z=ast.literal_eval(G.nodes[v]['coord'])
-            xy=tuple([x,y,0])
-            v=tuple([v,xy])   
-        list_coords=[]
-        #This is subject to change depending on if cells or real coords are used
-        l=0
-        length_mm=round(length*10)
-        for i in range(0, length_mm):
-            list_coords.append(l)
-            l+=1
-        edge_weights.append((tuple([u, v]), length, width))
-       # print(length,width)
-    all_edges.append(edge_weights)
-    
 
 
 
