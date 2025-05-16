@@ -1,0 +1,447 @@
+"","week","subset","colony","replicate_id","treatment","week.","observer","light","video_number","unmarked_exits","marked_exits","total_exits","t2"
+"1",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0024",19,1,4,0
+"2",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0025",40,2,8.4,1
+"3",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0027",46,0,9.2,3
+"4",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0029",45,2,9.4,5
+"5",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0031",30,1,6.2,7
+"6",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0033",34,1,7,9
+"7",1,1,1,"R1C2PM","pathogen",1,"1k","infrared","Ants_0035",41,2,8.6,11
+"8",1,1,1,"R1C2PM","pathogen",1,"1k","infrared","Ants_0037",44,0,8.8,13
+"9",1,1,1,"R1C2PM","pathogen",1,"1k","infrared","Ants_0039",43,0,8.6,15
+"10",1,1,1,"R1C2PM","pathogen",1,"1k","infrared","Ants_0041",58,0,11.6,17
+"11",1,1,1,"R1C2PM","pathogen",1,"1k","infrared","Ants_0043",52,0,10.4,19
+"12",1,1,1,"R1C2PM","pathogen",1,"1k","infrared","Ants_0045",41,0,8.2,21
+"13",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0047",5,0,1,23
+"14",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0049",14,1,3,25
+"15",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0051",36,1,7.4,27
+"16",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0053",48,1,9.8,29
+"17",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0055",36,1,7.4,31
+"18",1,1,1,"R1C2PM","pathogen",1,"1k","infrared","Ants_0057",35,0,7,33
+"19",1,1,1,"R1C2PM","pathogen",1,"1k","infrared","Ants_0059",20,0,4,35
+"20",1,1,1,"R1C2PM","pathogen",1,"1k","infrared","Ants_0061",17,0,3.4,37
+"21",1,1,1,"R1C2PM","pathogen",1,"1k","infrared","Ants_0063",20,1,4.2,39
+"22",1,1,1,"R1C2PM","pathogen",1,"1k","infrared","Ants_0065",26,1,5.4,41
+"23",1,1,1,"R1C2PM","pathogen",1,"1k","infrared","Ants_0067",31,0,6.2,43
+"24",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0069",23,0,4.6,45
+"25",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0071",12,3,3,47
+"26",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0074",24,3,5.4,49
+"27",1,1,1,"R1C2PM","pathogen",1,"1k","normal","Ants_0078",22,1,4.6,51
+"28",1,1,1,"R1C2PM","pathogen",1,"1k","infrared","Ants_0081",27,0,5.4,53
+"29",1,2,1,"R1C1SK","sham",1,"1m ","normal","Ants_0024",50,1,10.2,0
+"30",1,2,1,"R1C1SK","sham",1,"1m ","normal ","Ants_0025",137,0,27.4,1
+"31",1,2,1,"R1C1SK","sham",1,"1m ","normal ","Ants_0027",184,1,37,3
+"32",1,2,1,"R1C1SK","sham",1,"1m ","normal ","Ants_0029",192,1,38.6,5
+"33",1,2,1,"R1C1SK","sham",1,"1m ","normal ","Ants_0031",155,0,31,7
+"34",1,2,1,"R1C1SK","sham",1,"1m ","infrared","Ants_0033",140,1,28.2,9
+"35",1,2,1,"R1C1SK","sham",1,"1m ","infrared","Ants_0035",139,0,27.8,11
+"36",1,2,1,"R1C1SK","sham",1,"1m ","infrared ","Ants_0037",106,0,21.2,13
+"37",1,2,1,"R1C1SK","sham",1,"1m ","infrared","Ants_0039",100,0,20,15
+"38",1,2,1,"R1C1SK","sham",1,"1m ","infrared","Ants_0041",96,0,19.2,17
+"39",1,2,1,"R1C1SK","sham",1,"1m ","infrared","Ants_0043",89,0,17.8,19
+"40",1,2,1,"R1C1SK","sham",1,"1m ","normal ","Ants_0045",60,1,12.2,21
+"41",1,2,1,"R1C1SK","sham",1,"1m ","normal ","Ants_0047",0,1,0.2,23
+"42",1,2,1,"R1C1SK","sham",1,"1m ","normal ","Ants_0049",19,3,4.4,25
+"43",1,2,1,"R1C1SK","sham",1,"1m ","normal ","Ants_0051",45,3,9.6,27
+"44",1,2,1,"R1C1SK","sham",1,"1m ","normal","Ants_0053",51,0,10.2,29
+"45",1,2,1,"R1C1SK","sham",1,"1m ","normal","Ants_0055",37,1,7.6,31
+"46",1,2,1,"R1C1SK","sham",1,"1m ","normal","Ants_0057",45,4,9.8,33
+"47",1,2,1,"R1C1SK","sham",1,"1m ","infrared","Ants_0059",26,3,5.8,35
+"48",1,2,1,"R1C1SK","sham",1,"1m ","infrared ","Ants_0061",31,2,6.6,37
+"49",1,2,1,"R1C1SK","sham",1,"1m ","infrared ","Ants_0063",13,0,2.6,39
+"50",1,2,1,"R1C1SK","sham",1,"1m ","infrared","Ants_0065",19,0,3.8,41
+"51",1,2,1,"R1C1SK","sham",1,"1m ","infrared","Ants_0067",26,3,5.8,43
+"52",1,2,1,"R1C1SK","sham",1,"1m ","infrared","Ants_0069",25,1,5.2,45
+"53",1,2,1,"R1C1SK","sham",1,"1m ","normal","Ants_0071",18,0,3.6,47
+"54",1,2,1,"R1C1SK","sham",1,"1m ","normal","Ants_0074",20,3,4.6,49
+"55",1,2,1,"R1C1SK","sham",1,"1m ","normal ","Ants_0078",11,3,2.8,51
+"56",1,2,1,"R1C1SK","sham",1,"1m ","normal","Ants_0081",19,0,3.8,53
+"57",2,3,1,"R2C2SM","sham",2,"2k","normal","Ants_0025",52,0,10.4,0
+"58",2,3,1,"R2C2SM","sham",2,"2k","normal","Ants_0026",60,0,12,1
+"59",2,3,1,"R2C2SM","sham",2,"2k","normal","Ants_0047",26,0,5.2,23
+"60",2,3,1,"R2C2SM","sham",2,"2k","normal","Ants_0049",45,0,9,25
+"61",2,3,1,"R2C2SM","sham",2,"2k","normal","Ants_0051",37,1,7.6,27
+"62",2,3,1,"R2C2SM","sham",2,"2k","normal","Ants_0053",36,1,7.4,29
+"63",2,3,1,"R2C2SM","sham",2,"2k","normal","Ants_0055",19,1,4,31
+"64",2,3,1,"R2C2SM","sham",2,"2k","infrared","Ants_0057",41,0,8.2,33
+"65",2,3,1,"R2C2SM","sham",2,"2k","infrared","Ants_0059",40,0,8,35
+"66",2,3,1,"R2C2SM","sham",2,"2k","infrared","Ants_0061",32,0,6.4,37
+"67",2,3,1,"R2C2SM","sham",2,"2k","infrared","Ants_0063",45,0,9,39
+"68",2,3,1,"R2C2SM","sham",2,"2k","infrared","Ants_0065",49,0,9.8,41
+"69",2,3,1,"R2C2SM","sham",2,"2k","infrared","Ants_0067",23,0,4.6,43
+"70",2,3,1,"R2C2SM","sham",2,"2k","normal","Ants_0069",20,0,4,45
+"71",2,3,1,"R2C2SM","sham",2,"2k","normal","Ants_0071",19,1,4,47
+"72",2,3,1,"R2C2SM","sham",2,"2k","normal","Ants_0074",30,1,6.2,49
+"73",2,3,1,"R2C2SM","sham",2,"2k","normal","Ants_0078",32,2,6.8,51
+"74",2,3,1,"R2C2SM","sham",2,"2k","infrared","Ants_0081",48,0,9.6,53
+"75",2,4,1,"R2C1PK","pathogen",2,"2m","normal","Ants_0025",55,2,11.4,0
+"76",2,4,1,"R2C1PK","pathogen",2,"2m","normal ","Ants_0026",58,2,12,1
+"77",2,4,1,"R2C1PK","pathogen",2,"2m","normal ","Ants_0047",14,0,2.8,23
+"78",2,4,1,"R2C1PK","pathogen",2,"2m","normal","Ants_0049",49,1,10,25
+"79",2,4,1,"R2C1PK","pathogen",2,"2m","normal","Ants_0051",41,0,8.2,27
+"80",2,4,1,"R2C1PK","pathogen",2,"2m","normal ","Ants_0053",22,2,4.8,29
+"81",2,4,1,"R2C1PK","pathogen",2,"2m","normal","Ants_0055",31,1,6.4,31
+"82",2,4,1,"R2C1PK","pathogen",2,"2m","normal","Ants_0057",21,1,4.4,33
+"83",2,4,1,"R2C1PK","pathogen",2,"2m","infrared","Ants_0059",47,0,9.4,35
+"84",2,4,1,"R2C1PK","pathogen",2,"2m","infrared ","Ants_0061",35,0,7,37
+"85",2,4,1,"R2C1PK","pathogen",2,"2m","infrared ","Ants_0063",61,1,12.4,39
+"86",2,4,1,"R2C1PK","pathogen",2,"2m","infrared ","Ants_0065",16,0,3.2,41
+"87",2,4,1,"R2C1PK","pathogen",2,"2m","normal","Ants_0071",23,1,4.8,47
+"88",2,4,1,"R2C1PK","pathogen",2,"2m","normal","Ants_0074",18,1,3.8,49
+"89",2,4,1,"R2C1PK","pathogen",2,"2m","normal ","Ants_0078",23,0,4.6,51
+"90",2,4,1,"R2C1PK","pathogen",2,"2m","infrared","Ants_0081",32,0,6.4,53
+"91",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0025",36,3,7.8,0
+"92",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0026",60,2,12.4,1
+"93",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0028",67,2,13.8,3
+"94",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0030",57,2,11.8,5
+"95",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0032",63,0,12.6,7
+"96",3,5,2,"R3C2PM","pathogen",3,"3k","infrared","Ants_0034",66,0,13.2,9
+"97",3,5,2,"R3C2PM","pathogen",3,"3k","infrared","Ants_0036",73,0,14.6,11
+"98",3,5,2,"R3C2PM","pathogen",3,"3k","infrared","Ants_0038",78,0,15.6,13
+"99",3,5,2,"R3C2PM","pathogen",3,"3k","infrared","Ants_0040",88,0,17.6,15
+"100",3,5,2,"R3C2PM","pathogen",3,"3k","infrared","Ants_0042",93,0,18.6,17
+"101",3,5,2,"R3C2PM","pathogen",3,"3k","infrared","Ants_0044",67,0,13.4,19
+"102",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0046",52,1,10.6,21
+"103",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0048",25,0,5,23
+"104",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0050",23,0,4.6,25
+"105",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0052",24,2,5.2,27
+"106",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0054",25,0,5,29
+"107",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0056",39,1,8,31
+"108",3,5,2,"R3C2PM","pathogen",3,"3k","infrared","Ants_0058",22,0,4.4,33
+"109",3,5,2,"R3C2PM","pathogen",3,"3k","infrared","Ants_0060",62,1,12.6,35
+"110",3,5,2,"R3C2PM","pathogen",3,"3k","infrared","Ants_0062",31,3,6.8,37
+"111",3,5,2,"R3C2PM","pathogen",3,"3k","infrared","Ants_0064",36,0,7.2,39
+"112",3,5,2,"R3C2PM","pathogen",3,"3k","infrared","Ants_0066",41,1,8.4,41
+"113",3,5,2,"R3C2PM","pathogen",3,"3k","infrared","Ants_0068",23,0,4.6,43
+"114",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0070",26,3,5.8,45
+"115",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0072",10,2,2.4,47
+"116",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0075",18,1,3.8,49
+"117",3,5,2,"R3C2PM","pathogen",3,"3k","normal","Ants_0079",16,0,3.2,51
+"118",3,5,2,"R3C2PM","pathogen",3,"3k","infrared","Ants_0082",27,1,5.6,53
+"119",3,6,2,"R3C1SK","sham",3,"3m","normal","Ants_0025",24,0,4.8,0
+"120",3,6,2,"R3C1SK","sham",3,"3m","normal ","Ants_0026",51,0,10.2,1
+"121",3,6,2,"R3C1SK","sham",3,"3m","normal ","Ants_0028",60,0,12,3
+"122",3,6,2,"R3C1SK","sham",3,"3m","normal","Ants_0030",59,1,12,5
+"123",3,6,2,"R3C1SK","sham",3,"3m","normal","Ants_0032",33,0,6.6,7
+"124",3,6,2,"R3C1SK","sham",3,"3m","normal","Ants_0034",32,0,6.4,9
+"125",3,6,2,"R3C1SK","sham",3,"3m","infrared","Ants_0036",51,0,10.2,11
+"126",3,6,2,"R3C1SK","sham",3,"3m","infrared","Ants_0038",51,0,10.2,13
+"127",3,6,2,"R3C1SK","sham",3,"3m","infrared","Ants_0040",44,0,8.8,15
+"128",3,6,2,"R3C1SK","sham",3,"3m","infrared","Ants_0042",24,0,4.8,17
+"129",3,6,2,"R3C1SK","sham",3,"3m","infrared","Ants_0044",33,0,6.6,19
+"130",3,6,2,"R3C1SK","sham",3,"3m","infrared","Ants_0046",53,0,10.6,21
+"131",3,6,2,"R3C1SK","sham",3,"3m","normal","Ants_0048",28,0,5.6,23
+"132",3,6,2,"R3C1SK","sham",3,"3m","normal","Ants_0050",50,0,10,25
+"133",3,6,2,"R3C1SK","sham",3,"3m","normal","Ants_0052",36,1,7.4,27
+"134",3,6,2,"R3C1SK","sham",3,"3m","normal","Ants_0054",26,0,5.2,29
+"135",3,6,2,"R3C1SK","sham",3,"3m","normal","Ants_0056",24,1,5,31
+"136",3,6,2,"R3C1SK","sham",3,"3m","normal ","Ants_0058",27,0,5.4,33
+"137",3,6,2,"R3C1SK","sham",3,"3m","infrared ","Ants_0060",25,0,5,35
+"138",3,6,2,"R3C1SK","sham",3,"3m","infrared ","Ants_0062",17,0,3.4,37
+"139",3,6,2,"R3C1SK","sham",3,"3m","infrared ","Ants_0064",17,0,3.4,39
+"140",3,6,2,"R3C1SK","sham",3,"3m","infrared ","Ants_0066",18,1,3.8,41
+"141",3,6,2,"R3C1SK","sham",3,"3m","infrared ","Ants_0068",26,0,5.2,43
+"142",3,6,2,"R3C1SK","sham",3,"3m","infrared","Ants_0070",18,1,3.8,45
+"143",3,6,2,"R3C1SK","sham",3,"3m","normal","Ants_0072",9,2,2.2,47
+"144",3,6,2,"R3C1SK","sham",3,"3m","normal","Ants_0075",13,2,3,49
+"145",3,6,2,"R3C1SK","sham",3,"3m","normal","Ants_0079",5,0,1,51
+"146",3,6,2,"R3C1SK","sham",3,"3m","infrared ","Ants_0082",3,0,0.6,53
+"147",4,7,2,"R4C2SM","sham",4,"4k","normal","Ants_0025",30,0,6,0
+"148",4,7,2,"R4C2SM","sham",4,"4k","normal","Ants_0026",26,0,5.2,1
+"149",4,7,2,"R4C2SM","sham",4,"4k","normal","Ants_0028",34,0,6.8,3
+"150",4,7,2,"R4C2SM","sham",4,"4k","normal","Ants_0030",33,0,6.6,5
+"151",4,7,2,"R4C2SM","sham",4,"4k","normal","Ants_0032",39,0,7.8,21
+"152",4,7,2,"R4C2SM","sham",4,"4k","normal","Ants_0048",0,0,0,23
+"153",4,7,2,"R4C2SM","sham",4,"4k","normal","Ants_0050",9,1,2,25
+"154",4,7,2,"R4C2SM","sham",4,"4k","normal","Ants_0052",9,1,2,27
+"155",4,7,2,"R4C2SM","sham",4,"4k","normal","Ants_0054",8,0,1.6,29
+"156",4,7,2,"R4C2SM","sham",4,"4k","normal","Ants_0056",12,1,2.6,31
+"157",4,7,2,"R4C2SM","sham",4,"4k","infrared","Ants_0058",13,1,2.8,33
+"158",4,7,2,"R4C2SM","sham",4,"4k","infrared","Ants_0060",15,0,3,35
+"159",4,7,2,"R4C2SM","sham",4,"4k","infrared","Ants_0062",14,0,2.8,37
+"160",4,7,2,"R4C2SM","sham",4,"4k","infrared","Ants_0064",26,0,5.2,39
+"161",4,7,2,"R4C2SM","sham",4,"4k","infrared","Ants_0066",16,0,3.2,41
+"162",4,7,2,"R4C2SM","sham",4,"4k","infrared","Ants_0068",24,1,5,43
+"163",4,7,2,"R4C2SM","sham",4,"4k","normal","Ants_0070",10,0,2,45
+"164",4,7,2,"R4C2SM","sham",4,"4k","normal","Ants_0072",1,0,0.2,47
+"165",4,7,2,"R4C2SM","sham",4,"4k","normal","Ants_0075",5,0,1,49
+"166",4,7,2,"R4C2SM","sham",4,"4k","normal","Ants_0079",3,0,0.6,51
+"167",4,7,2,"R4C2SM","sham",4,"4k","infrared","Ants_0082",14,3,3.4,53
+"168",4,8,2,"R4C1PK","pathogen",4,"4m","normal ","Ants_0025",50,5,11,0
+"169",4,8,2,"R4C1PK","pathogen",4,"4m","normal","Ants_0026",87,1,17.6,1
+"170",4,8,2,"R4C1PK","pathogen",4,"4m","normal","Ants_0028",93,11,20.8,3
+"171",4,8,2,"R4C1PK","pathogen",4,"4m","normal","Ants_0030",110,9,23.8,5
+"172",4,8,2,"R4C1PK","pathogen",4,"4m","normal","Ants_0032",72,8,16,21
+"173",4,8,2,"R4C1PK","pathogen",4,"4m","normal","Ants_0050",19,0,3.8,25
+"174",4,8,2,"R4C1PK","pathogen",4,"4m","normal","Ants_0052",9,0,1.8,27
+"175",4,8,2,"R4C1PK","pathogen",4,"4m","normal","Ants_0054",6,0,1.2,29
+"176",4,8,2,"R4C1PK","pathogen",4,"4m","normal","Ants_0056",9,1,2,31
+"177",4,8,2,"R4C1PK","pathogen",4,"4m","normal","Ants_0058",14,0,2.8,33
+"178",4,8,2,"R4C1PK","pathogen",4,"4m","infrared ","Ants_0060",30,1,6.2,35
+"179",4,8,2,"R4C1PK","pathogen",4,"4m","infrared ","Ants_0062",21,0,4.2,37
+"180",4,8,2,"R4C1PK","pathogen",4,"4m","infrared ","Ants_0064",27,2,5.8,39
+"181",4,8,2,"R4C1PK","pathogen",4,"4m","infrared ","Ants_0066",8,0,1.6,41
+"182",4,8,2,"R4C1PK","pathogen",4,"4m","infrared","Ants_0068",7,3,2,43
+"183",4,8,2,"R4C1PK","pathogen",4,"4m","infrared ","Ants_0070",15,2,3.4,45
+"184",4,8,2,"R4C1PK","pathogen",4,"4m","normal ","Ants_0072",1,2,0.6,47
+"185",4,8,2,"R4C1PK","pathogen",4,"4m","normal ","Ants_0075",3,0,0.6,49
+"186",4,8,2,"R4C1PK","pathogen",4,"4m","infrared ","Ants_0079",3,0,0.6,51
+"187",4,8,2,"R4C1PK","pathogen",4,"4m","infrared ","Ants_0082",2,0,0.4,53
+"188",5,9,3,"R5C2PM","pathogen",5,"5k","normal","Ants_0025",43,1,8.8,0
+"189",5,9,3,"R5C2PM","pathogen",5,"5k","normal","Ants_0026",61,3,12.8,1
+"190",5,9,3,"R5C2PM","pathogen",5,"5k","normal","Ants_0028",91,2,18.6,3
+"191",5,9,3,"R5C2PM","pathogen",5,"5k","normal","Ants_0030",80,2,16.4,5
+"192",5,9,3,"R5C2PM","pathogen",5,"5k","normal","Ants_0032",76,3,15.8,7
+"193",5,9,3,"R5C2PM","pathogen",5,"5k","infrared","Ants_0034",53,1,10.8,9
+"194",5,9,3,"R5C2PM","pathogen",5,"5k","infrared","Ants_0036",28,1,5.8,11
+"195",5,9,3,"R5C2PM","pathogen",5,"5k","infrared","Ants_0038",31,0,6.2,13
+"196",5,9,3,"R5C2PM","pathogen",5,"5k","infrared","Ants_0040",41,0,8.2,15
+"197",5,9,3,"R5C2PM","pathogen",5,"5k","infrared","Ants_0042",31,0,6.2,17
+"198",5,9,3,"R5C2PM","pathogen",5,"5k","infrared","Ants_0044",33,0,6.6,19
+"199",5,9,3,"R5C2PM","pathogen",5,"5k","normal","Ants_0046",20,3,4.6,21
+"200",5,9,3,"R5C2PM","pathogen",5,"5k","normal","Ants_0048",26,1,5.4,23
+"201",5,9,3,"R5C2PM","pathogen",5,"5k","normal","Ants_0050",22,3,5,25
+"202",5,9,3,"R5C2PM","pathogen",5,"5k","normal","Ants_0072",27,3,6,47
+"203",5,9,3,"R5C2PM","pathogen",5,"5k","normal","Ants_0075",12,1,2.6,49
+"204",5,9,3,"R5C2PM","pathogen",5,"5k","normal","Ants_0079",16,2,3.6,51
+"205",5,9,3,"R5C2PM","pathogen",5,"5k","infrared","Ants_0082",15,0,3,53
+"220",5,10,3,"R5C1SK","sham",5,"5m","normal","Ants_0026",85,5,18,1
+"221",5,10,3,"R5C1SK","sham",5,"5m","normal","Ants_0028",98,2,20,3
+"222",5,10,3,"R5C1SK","sham",5,"5m","normal","Ants_0030",105,4,21.8,5
+"223",5,10,3,"R5C1SK","sham",5,"5m","normal","Ants_0032",94,7,20.2,7
+"224",5,10,3,"R5C1SK","sham",5,"5m","infrared","Ants_0034",64,5,13.8,9
+"225",5,10,3,"R5C1SK","sham",5,"5m","infrared","Ants_0036",57,2,11.8,11
+"226",5,10,3,"R5C1SK","sham",5,"5m","infrared","Ants_0038",51,3,10.8,13
+"227",5,10,3,"R5C1SK","sham",5,"5m","infrared","Ants_0040",53,0,10.6,15
+"228",5,10,3,"R5C1SK","sham",5,"5m","infrared","Ants_0042",41,2,8.6,17
+"229",5,10,3,"R5C1SK","sham",5,"5m","infrared","Ants_0044",46,3,9.8,19
+"230",5,10,3,"R5C1SK","sham",5,"5m","normal","Ants_0046",46,0,9.2,21
+"231",5,10,3,"R5C1SK","sham",5,"5m","normal","Ants_0048",21,0,4.2,23
+"232",5,10,3,"R5C1SK","sham",5,"5m","normal","Ants_0050",55,10,13,25
+"233",5,10,3,"R5C1SK","sham",5,"5m","normal","Ants_0052",47,3,10,27
+"234",5,10,3,"R5C1SK","sham",5,"5m","normal","Ants_0054",47,3,10,29
+"235",5,10,3,"R5C1SK","sham",5,"5m","normal","Ants_0056",44,3,9.4,31
+"236",5,10,3,"R5C1SK","sham",5,"5m","infrared","Ants_0058",31,0,6.2,33
+"237",5,10,3,"R5C1SK","sham",5,"5m","infrared","Ants_0060",17,0,3.4,35
+"238",5,10,3,"R5C1SK","sham",5,"5m","infrared","Ants_0062",20,1,4.2,37
+"239",5,10,3,"R5C1SK","sham",5,"5m","infrared","Ants_0064",16,0,3.2,39
+"240",5,10,3,"R5C1SK","sham",5,"5m","infrared","Ants_0066",8,0,1.6,41
+"241",5,10,3,"R5C1SK","sham",5,"5m","infrared","Ants_0068",24,0,4.8,43
+"242",5,10,3,"R5C1SK","sham",5,"5m","normal","Ants_0070",21,0,4.2,45
+"243",5,10,3,"R5C1SK","sham",5,"5m","normal","Ants_0072",17,0,3.4,47
+"244",5,10,3,"R5C1SK","sham",5,"5m","normal","Ants_0075",22,1,4.6,49
+"245",5,10,3,"R5C1SK","sham",5,"5m","normal","Ants_0079",16,0,3.2,51
+"246",5,10,3,"R5C1SK","sham",5,"5m","infrared","Ants_0082",16,0,3.2,53
+"257",6,11,3,"R6C2SM","sham",6,"6k","normal","Ants_0025",46,2,9.6,0
+"258",6,11,3,"R6C2SM","sham",6,"6k","normal","Ants_0027",52,2,10.8,1
+"259",6,11,3,"R6C2SM","sham",6,"6k","normal","Ants_0029",61,0,12.2,3
+"260",6,11,3,"R6C2SM","sham",6,"6k","normal","Ants_0030",47,4,10.2,5
+"261",6,11,3,"R6C2SM","sham",6,"6k","normal","Ants_0031",38,1,7.8,7
+"262",6,11,3,"R6C2SM","sham",6,"6k","normal","Ants_0033",39,0,7.8,9
+"263",6,11,3,"R6C2SM","sham",6,"6k","infrared","Ants_0035",41,0,8.2,11
+"264",6,11,3,"R6C2SM","sham",6,"6k","infrared","Ants_0037",45,1,9.2,13
+"265",6,11,3,"R6C2SM","sham",6,"6k","infrared","Ants_0039",38,1,7.8,15
+"301",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0025",22,0,4.4,0
+"302",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0026",24,0,4.8,1
+"303",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0028",36,1,7.4,3
+"304",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0030",32,0,6.4,5
+"305",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0032",30,0,6,7
+"306",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0034",32,0,6.4,9
+"307",7,13,4,"R7C1SK","sham",7,"7x","infrared","Ants_0036",30,1,6.2,11
+"308",7,13,4,"R7C1SK","sham",7,"7x","infrared","Ants_0038",40,4,8.8,13
+"309",7,13,4,"R7C1SK","sham",7,"7x","infrared","Ants_0040",22,1,4.6,15
+"310",7,13,4,"R7C1SK","sham",7,"7x","infrared","Ants_0042",11,2,2.6,17
+"311",7,13,4,"R7C1SK","sham",7,"7x","infrared","Ants_0044",29,3,6.4,19
+"312",7,13,4,"R7C1SK","sham",7,"7x","infrared","Ants_0046",15,2,3.4,21
+"313",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0048",19,0,3.8,23
+"314",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0050",16,0,3.2,25
+"315",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0052",26,0,5.2,27
+"316",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0054",23,1,4.8,29
+"317",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0056",37,0,7.4,31
+"318",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0058",15,1,3.2,33
+"319",7,13,4,"R7C1SK","sham",7,"7x","infrared","Ants_0060",8,2,2,35
+"320",7,13,4,"R7C1SK","sham",7,"7x","infrared","Ants_0062",4,1,1,37
+"321",7,13,4,"R7C1SK","sham",7,"7x","infrared","Ants_0064",11,0,2.2,39
+"322",7,13,4,"R7C1SK","sham",7,"7x","infrared","Ants_0066",3,0,0.6,41
+"323",7,13,4,"R7C1SK","sham",7,"7x","infrared","Ants_0068",10,0,2,43
+"324",7,13,4,"R7C1SK","sham",7,"7x","infrared","Ants_0070",8,1,1.8,45
+"325",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0072",11,1,2.4,47
+"326",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0075",7,0,1.4,49
+"327",7,13,4,"R7C1SK","sham",7,"7x","normal","Ants_0079",21,1,4.4,51
+"328",7,13,4,"R7C1SK","sham",7,"7x","infrared","Ants_0082",3,3,1.2,53
+"329",7,14,4,"R7C2PM","pathogen",7,"7y","normal","Ants_0025",36,0,7.2,0
+"330",7,14,4,"R7C2PM","pathogen",7,"7y","normal","Ants_0026",53,4,11.4,1
+"331",7,14,4,"R7C2PM","pathogen",7,"7y","normal","Ants_0028",82,1,16.6,3
+"332",7,14,4,"R7C2PM","pathogen",7,"7y","normal","Ants_0030",80,0,16,5
+"333",7,14,4,"R7C2PM","pathogen",7,"7y","normal","Ants_0032",71,0,14.2,7
+"334",7,14,4,"R7C2PM","pathogen",7,"7y","infrared","Ants_0034",38,0,7.6,9
+"335",7,14,4,"R7C2PM","pathogen",7,"7y","infrared","Ants_0036",56,2,11.6,11
+"336",7,14,4,"R7C2PM","pathogen",7,"7y","infrared","Ants_0038",58,5,12.6,13
+"337",7,14,4,"R7C2PM","pathogen",7,"7y","infrared","Ants_0040",33,0,6.6,15
+"338",7,14,4,"R7C2PM","pathogen",7,"7y","infrared","Ants_0042",32,6,7.6,17
+"339",7,14,4,"R7C2PM","pathogen",7,"7y","infrared","Ants_0044",29,1,6,19
+"340",7,14,4,"R7C2PM","pathogen",7,"7y","normal","Ants_0046",27,0,5.4,21
+"341",7,14,4,"R7C2PM","pathogen",7,"7y","normal","Ants_0048",23,1,4.8,23
+"342",7,14,4,"R7C2PM","pathogen",7,"7y","normal","Ants_0050",33,0,6.6,25
+"343",7,14,4,"R7C2PM","pathogen",7,"7y","normal","Ants_0052",30,1,6.2,27
+"344",7,14,4,"R7C2PM","pathogen",7,"7y","normal","Ants_0054",22,2,4.8,29
+"345",7,14,4,"R7C2PM","pathogen",7,"7y","normal","Ants_0056",21,0,4.2,31
+"346",7,14,4,"R7C2PM","pathogen",7,"7y","normal","Ants_0072",2,1,0.6,47
+"347",7,14,4,"R7C2PM","pathogen",7,"7y","normal","Ants_0075",18,1,3.8,49
+"348",7,14,4,"R7C2PM","pathogen",7,"7y","normal","Ants_0079",6,3,1.8,51
+"349",7,14,4,"R7C2PM","pathogen",7,"7y","infrared","Ants_0082",20,0,4,53
+"350",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0025",23,1,4.8,0
+"351",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0026",46,1,9.4,1
+"352",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0028",62,7,13.8,3
+"353",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0030",71,11,16.4,5
+"354",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0032",60,8,13.6,7
+"355",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0034",13,6,3.8,9
+"356",8,15,4,"R8C1PL","pathogen",8,"8x","infrared","Ants_0036",50,6,11.2,11
+"357",8,15,4,"R8C1PL","pathogen",8,"8x","infrared","Ants_0038",48,3,10.2,13
+"358",8,15,4,"R8C1PL","pathogen",8,"8x","infrared","Ants_0040",31,2,6.6,15
+"359",8,15,4,"R8C1PL","pathogen",8,"8x","infrared","Ants_0042",40,3,8.6,17
+"360",8,15,4,"R8C1PL","pathogen",8,"8x","infrared","Ants_0044",27,6,6.6,19
+"361",8,15,4,"R8C1PL","pathogen",8,"8x","infrared","Ants_0046",32,4,7.2,21
+"362",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0048",21,3,4.8,23
+"363",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0050",35,8,8.6,25
+"364",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0052",37,5,8.4,27
+"365",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0054",33,4,7.4,29
+"366",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0056",22,9,6.2,31
+"367",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0058",27,6,6.6,33
+"368",8,15,4,"R8C1PL","pathogen",8,"8x","infrared","Ants_0060",34,5,7.8,35
+"369",8,15,4,"R8C1PL","pathogen",8,"8x","infrared","Ants_0062",28,3,6.2,37
+"370",8,15,4,"R8C1PL","pathogen",8,"8x","infrared","Ants_0064",19,2,4.2,39
+"371",8,15,4,"R8C1PL","pathogen",8,"8x","infrared","Ants_0066",17,4,4.2,41
+"372",8,15,4,"R8C1PL","pathogen",8,"8x","infrared","Ants_0068",8,2,2,43
+"373",8,15,4,"R8C1PL","pathogen",8,"8x","infrared","Ants_0070",12,8,4,45
+"374",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0072",3,3,1.2,47
+"375",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0075",12,8,4,49
+"376",8,15,4,"R8C1PL","pathogen",8,"8x","normal","Ants_0079",6,4,2,51
+"377",8,15,4,"R8C1PL","pathogen",8,"8x","infrared","Ants_0082",7,1,1.6,53
+"378",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0025",49,1,10,0
+"379",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0026",102,0,20.4,1
+"380",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0028",100,0,20,3
+"381",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0030",90,1,18,5
+"382",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0032",84,0,16.8,7
+"383",8,16,4,"R8C2SL","sham",8,"8y","infrared","Ants_0034",32,0,6.4,9
+"384",8,16,4,"R8C2SL","sham",8,"8y","infrared","Ants_0036",25,0,5,11
+"385",8,16,4,"R8C2SL","sham",8,"8y","infrared","Ants_0038",13,0,2.6,13
+"386",8,16,4,"R8C2SL","sham",8,"8y","infrared","Ants_0040",31,0,6.2,15
+"387",8,16,4,"R8C2SL","sham",8,"8y","infrared","Ants_0042",22,0,4.4,17
+"388",8,16,4,"R8C2SL","sham",8,"8y","infrared","Ants_0044",17,0,3.4,19
+"389",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0046",27,0,5.4,21
+"390",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0048",12,0,2.4,23
+"391",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0050",20,0,4,25
+"392",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0052",16,0,3.2,27
+"393",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0054",22,0,4.4,29
+"394",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0056",29,0,5.8,31
+"395",8,16,4,"R8C2SL","sham",8,"8y","infrared","Ants_0058",21,0,4.2,33
+"396",8,16,4,"R8C2SL","sham",8,"8y","infrared","Ants_0060",25,1,5.2,35
+"397",8,16,4,"R8C2SL","sham",8,"8y","infrared","Ants_0062",23,0,4.6,37
+"398",8,16,4,"R8C2SL","sham",8,"8y","infrared","Ants_0064",20,1,4.2,39
+"399",8,16,4,"R8C2SL","sham",8,"8y","infrared","Ants_0066",26,0,5.2,41
+"400",8,16,4,"R8C2SL","sham",8,"8y","infrared","Ants_0068",26,0,5.2,43
+"401",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0070",13,0,2.6,45
+"402",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0072",6,0,1.2,47
+"403",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0075",9,0,1.8,49
+"404",8,16,4,"R8C2SL","sham",8,"8y","normal","Ants_0079",6,0,1.2,51
+"405",8,16,4,"R8C2SL","sham",8,"8y","infrared","Ants_0082",9,0,1.8,53
+"419",8,17,5,"R9C1SL","sham",9,"9x","normal","Ants_0025",62,0,12.4,0
+"420",8,17,5,"R9C1SL","sham",9,"9x","normal","Ants_0026",79,0,15.8,1
+"421",8,17,5,"R9C1SL","sham",9,"9x","normal","Ants_0028",73,0,14.6,3
+"422",8,17,5,"R9C1SL","sham",9,"9x","normal","Ants_0030",81,0,16.2,5
+"423",8,17,5,"R9C1SL","sham",9,"9x","normal","Ants_0032",74,0,14.8,7
+"424",8,17,5,"R9C1SL","sham",9,"9x","normal","Ants_0034",63,0,12.6,9
+"425",8,17,5,"R9C1SL","sham",9,"9x","infrared","Ants_0036",83,0,16.6,11
+"426",8,17,5,"R9C1SL","sham",9,"9x","infrared","Ants_0038",44,0,8.8,13
+"427",8,17,5,"R9C1SL","sham",9,"9x","infrared","Ants_0040",39,0,7.8,15
+"428",8,17,5,"R9C1SL","sham",9,"9x","infrared","Ants_0042",40,0,8,17
+"429",8,17,5,"R9C1SL","sham",9,"9x","infrared","Ants_0044",43,1,8.8,19
+"430",8,17,5,"R9C1SL","sham",9,"9x","infrared","Ants_0046",43,1,8.8,21
+"431",8,17,5,"R9C1SL","sham",9,"9x","normal","Ants_0048",1,0,0.2,23
+"432",8,17,5,"R9C1SL","sham",9,"9x","normal","Ants_0050",18,0,3.6,25
+"433",8,17,5,"R9C1SL","sham",9,"9x","normal","Ants_0052",7,0,1.4,27
+"434",8,17,5,"R9C1SL","sham",9,"9x","normal","Ants_0054",10,0,2,29
+"435",8,17,5,"R9C1SL","sham",9,"9x","normal","Ants_0056",12,1,2.6,31
+"436",8,17,5,"R9C1SL","sham",9,"9x","normal","Ants_0058",2,0,0.4,33
+"437",8,17,5,"R9C1SL","sham",9,"9x","infrared","Ants_0060",9,0,1.8,35
+"438",8,18,5,"R9C2PL","pathogen",9,"9y","normal","Ants_0025",69,1,14,0
+"439",8,18,5,"R9C2PL","pathogen",9,"9y","normal","Ants_0026",94,1,19,1
+"440",8,18,5,"R9C2PL","pathogen",9,"9y","normal","Ants_0028",71,5,15.2,3
+"441",8,18,5,"R9C2PL","pathogen",9,"9y","normal","Ants_0030",88,2,18,5
+"442",8,18,5,"R9C2PL","pathogen",9,"9y","normal","Ants_0032",68,2,14,7
+"443",8,18,5,"R9C2PL","pathogen",9,"9y","infrared","Ants_0034",40,4,8.8,9
+"444",8,18,5,"R9C2PL","pathogen",9,"9y","infrared","Ants_0036",38,4,8.4,11
+"445",8,18,5,"R9C2PL","pathogen",9,"9y","infrared","Ants_0038",39,0,7.8,13
+"446",8,18,5,"R9C2PL","pathogen",9,"9y","infrared","Ants_0040",57,3,12,15
+"447",8,18,5,"R9C2PL","pathogen",9,"9y","infrared","Ants_0042",53,0,10.6,17
+"448",8,18,5,"R9C2PL","pathogen",9,"9y","infrared","Ants_0044",47,0,9.4,19
+"449",8,18,5,"R9C2PL","pathogen",9,"9y","normal","Ants_0046",42,2,8.8,21
+"450",8,18,5,"R9C2PL","pathogen",9,"9y","normal","Ants_0048",12,0,2.4,23
+"451",8,18,5,"R9C2PL","pathogen",9,"9y","normal","Ants_0050",25,2,5.4,25
+"452",8,18,5,"R9C2PL","pathogen",9,"9y","normal","Ants_0052",35,2,7.4,27
+"453",8,18,5,"R9C2PL","pathogen",9,"9y","normal","Ants_0054",26,6,6.4,29
+"454",8,18,5,"R9C2PL","pathogen",9,"9y","normal","Ants_0056",35,5,8,31
+"455",8,18,5,"R9C2PL","pathogen",9,"9y","infrared","Ants_0058",23,0,4.6,33
+"456",8,18,5,"R9C2PL","pathogen",9,"9y","infrared","Ants_0060",25,0,5,35
+"457",8,18,5,"R9C2PL","pathogen",9,"9y","infrared","Ants_0062",23,3,5.2,37
+"458",8,18,5,"R9C2PL","pathogen",9,"9y","infrared","Ants_0064",18,2,4,39
+"459",8,18,5,"R9C2PL","pathogen",9,"9y","infrared","Ants_0066",30,6,7.2,41
+"460",8,18,5,"R9C2PL","pathogen",9,"9y","infrared","Ants_0068",38,1,7.8,43
+"461",8,18,5,"R9C2PL","pathogen",9,"9y","normal","Ants_0070",17,5,4.4,45
+"462",8,18,5,"R9C2PL","pathogen",9,"9y","normal","Ants_0072",11,1,2.4,47
+"476",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0025",112,8,24,0
+"477",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0026",150,9,31.8,1
+"478",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0028",121,11,26.4,3
+"479",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0030",118,5,24.6,5
+"480",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0032",100,7,21.4,7
+"481",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0034",97,3,20,9
+"482",8,19,6,"R10C1PL","pathogen",10,"10x","infrared","Ants_0036",78,4,16.4,11
+"483",8,19,6,"R10C1PL","pathogen",10,"10x","infrared","Ants_0038",63,11,14.8,13
+"484",8,19,6,"R10C1PL","pathogen",10,"10x","infrared","Ants_0040",82,4,17.2,15
+"485",8,19,6,"R10C1PL","pathogen",10,"10x","infrared","Ants_0042",41,6,9.4,17
+"486",8,19,6,"R10C1PL","pathogen",10,"10x","infrared","Ants_0044",40,5,9,19
+"487",8,19,6,"R10C1PL","pathogen",10,"10x","infrared","Ants_0046",45,1,9.2,21
+"488",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0048",3,2,1,23
+"489",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0050",57,0,11.4,25
+"490",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0052",65,4,13.8,27
+"491",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0054",53,8,12.2,29
+"492",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0056",65,1,13.2,31
+"493",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0058",52,3,11,33
+"494",8,19,6,"R10C1PL","pathogen",10,"10x","infrared","Ants_0060",41,7,9.6,35
+"495",8,19,6,"R10C1PL","pathogen",10,"10x","infrared","Ants_0062",16,1,3.4,37
+"496",8,19,6,"R10C1PL","pathogen",10,"10x","infrared","Ants_0064",14,2,3.2,39
+"497",8,19,6,"R10C1PL","pathogen",10,"10x","infrared","Ants_0066",25,1,5.2,41
+"498",8,19,6,"R10C1PL","pathogen",10,"10x","infrared","Ants_0068",19,3,4.4,43
+"499",8,19,6,"R10C1PL","pathogen",10,"10x","infrared","Ants_0070",8,2,2,45
+"500",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0072",8,1,1.8,47
+"501",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0075",18,3,4.2,49
+"502",8,19,6,"R10C1PL","pathogen",10,"10x","normal","Ants_0079",25,2,5.4,51
+"503",8,19,6,"R10C1PL","pathogen",10,"10x","infrared","Ants_0082",7,2,1.8,53
+"504",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0025",94,7,20.2,0
+"505",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0026",166,7,34.6,1
+"506",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0028",169,18,37.4,3
+"507",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0030",129,9,27.6,5
+"508",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0032",91,10,20.2,7
+"509",8,20,6,"R10C2SL","sham",10,"10y","infrared","Ants_0034",49,4,10.6,9
+"510",8,20,6,"R10C2SL","sham",10,"10y","infrared","Ants_0036",80,4,16.8,11
+"511",8,20,6,"R10C2SL","sham",10,"10y","infrared","Ants_0038",73,3,15.2,13
+"512",8,20,6,"R10C2SL","sham",10,"10y","infrared","Ants_0040",95,4,19.8,15
+"513",8,20,6,"R10C2SL","sham",10,"10y","infrared","Ants_0042",90,3,18.6,17
+"514",8,20,6,"R10C2SL","sham",10,"10y","infrared","Ants_0044",58,1,11.8,19
+"515",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0046",64,5,13.8,21
+"516",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0048",8,1,1.8,23
+"517",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0050",45,0,9,25
+"518",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0052",23,2,5,27
+"519",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0054",13,0,2.6,29
+"520",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0056",47,0,9.4,31
+"521",8,20,6,"R10C2SL","sham",10,"10y","infrared","Ants_0058",11,0,2.2,33
+"522",8,20,6,"R10C2SL","sham",10,"10y","infrared","Ants_0060",12,0,2.4,35
+"523",8,20,6,"R10C2SL","sham",10,"10y","infrared","Ants_0062",16,0,3.2,37
+"524",8,20,6,"R10C2SL","sham",10,"10y","infrared","Ants_0064",11,0,2.2,39
+"525",8,20,6,"R10C2SL","sham",10,"10y","infrared","Ants_0066",20,0,4,41
+"526",8,20,6,"R10C2SL","sham",10,"10y","infrared","Ants_0068",12,0,2.4,43
+"527",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0070",35,1,7.2,45
+"528",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0072",21,3,4.8,47
+"529",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0075",7,0,1.4,49
+"530",8,20,6,"R10C2SL","sham",10,"10y","normal","Ants_0079",3,0,0.6,51
+"531",8,20,6,"R10C2SL","sham",10,"10y","infrared","Ants_0082",11,0,2.2,53
